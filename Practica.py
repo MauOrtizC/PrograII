@@ -13,3 +13,7 @@ def maximo(A, B, C):
     return max(A, B, C)
 def mean(A, B)
     return mean(A, B)
+
+# Función que retorna la suma de dos valores
+def suma(A, B):
+    return sum(A, B)

@@ -13,3 +13,6 @@ def maximo(A, B, C):
     return max(A, B, C)
 def mean(A, B)
     return mean(A, B)
+
+def resta(A,B):
+    return A-B

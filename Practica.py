@@ -17,3 +17,5 @@ def mean(A, B)
 # Función que retorna la suma de dos valores
 def suma(A, B):
     return sum(A, B)
+
+# test merge
